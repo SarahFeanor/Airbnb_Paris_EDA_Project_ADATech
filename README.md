@@ -10,7 +10,7 @@
   <a href="https://github.com/SarahFeanor?tab=repositories">
     <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1198980222389858464/thumb2-eiffel-tower-paris-champs-elysees-evening-paris-landmarks.jpg?ex=65c0e058&is=65ae6b58&hm=f80a94468a74b3b1a7104c55299392e769903121900d57137b15ad90714dccf4&" alt="capa" width="400" height="300">
   </a>
-</p>
+</p> <p align="center"> <sup> Foto: Torre Eiffel - Fonte: BesthHqWallpapers </sup> </p>
 
 
 
@@ -71,4 +71,4 @@ Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no 
   <a href="https://github.com/SarahFeanor?tab=repositories">
     <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1198977694004682752/cats.jpg?ex=65c0ddfe&is=65ae68fe&hm=7592e55b8862cbda52a303953ee10fdf3f357eb049f96977e08b99ddb85545b7&" alt="capa" width="400" height="300">
   </a>
-</p>
+</p><p align="center"> <sup> Foto: Mapa dos bairros de Paris - Fonte: Paris CityVision </sup> </p>
