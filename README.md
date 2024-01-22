@@ -14,7 +14,7 @@
 
 
 
-### Análise Explorátoria dos Dados do Airbnb - Paris 
+## Análise Explorátoria dos Dados do Airbnb - Paris 
 
 Bem-vindos(as) ao nosso repositório do 4ª projeto desenvolvido durante o curso 'Vem Ser Tech Dados' da ADA Tech. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Técnica de Programação I (PY). 
 
@@ -38,6 +38,32 @@ Bem-vindos(as) ao nosso repositório do 4ª projeto desenvolvido durante o curso
 🗺️ Como analista de Dados da **RotaVIP**, realizamos uma Análise Exploratória de Dados (EDA) dedicada à cidade de Paris, com ênfase na área de hotelaria. A equipe utilizou dados do **Airbnb**, uma plataforma global que conecta anfitriões e viajantes. O Airbnb, conhecido por promover transparência e democratização dos dados, disponibiliza informações valiosas através do portal [Inside Airbnb](http://insideairbnb.com/get-the-data/).
 
 ## Dados 
+
+Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no [Inside Airbnb](http://insideairbnb.com/get-the-data/). Os **arquivos** usados aqui tambem podem ser adquiridos em nosso [repositório]() do Github:
+
+- **Listagem** - Informações resumidas e métricas  (bom para visualizações): [listings.csv](https://)
+
+
+### **Dicionário de Variavéis**
+
+- `id`: Identificador único para cada listagem no Airbnb, distinguindo cada propriedade individualmente.
+- `name`: Nome da propriedade anunciada.
+- `host_id`: Identificador único para o anfitrião (host) da propriedade.
+- `host_name`: Nome do anfitrião 
+- `neighbourhood_group`: Subdivisão geográfica mais ampla, como um distrito ou bairro.
+- `neighbourhood`: Nome do bairro/ Distrito.
+- `latitude`: Coordenada de latitude da localização da propriedade.
+- `longitude`: Coordenada de longitude da localização da propriedade.
+- `room_type`: Tipo de quarto ou unidade anunciada (por exemplo, "Casa inteira", "Quarto privado", "Compartilhado").
+- `price`: Valor do aluguel da propriedade por noite.
+- `minimum_nights`: Número mínimo de noites que um hóspede deve reservar para esta propriedade.
+- `number_of_reviews`: Total de avaliações que a propriedade recebeu de hóspedes anteriores.
+- `last_review`: Data da última avaliação/revisão deixada por um hóspede.
+- `reviews_per_month`: Média de avaliações/revisões que a propriedade recebe por mês.
+- `calculated_host_listings_count`: Número total de propriedades que o host possui, calculado automaticamente.
+- `availability_365`: Número de dias em que a propriedade está disponível para reserva ao longo do ano.
+- `number_of_reviews_ltm`: Número de avaliações que a propriedade recebeu nos últimos doze meses.
+- `license`: Possível licença ou autorização associada à propriedade.
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
