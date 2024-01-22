@@ -16,7 +16,9 @@
 
 ## Análise Explorátoria dos Dados do Airbnb - Paris 
 
-Bem-vindos(as) ao nosso repositório do 4ª projeto desenvolvido durante o curso 'Vem Ser Tech Dados' da ADA Tech. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Técnica de Programação I (PY). 
+Bem-vindos(as) ao nosso repositório do 4ª projeto desenvolvido durante o curso 'Vem Ser Tech Dados' da ADA Tech. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Técnica de Programação I (PY). Tem como foco a realização de um **EDA** (Exploratory Data Analysis) com os conhecimentos obtidos (Pandas e Numpy).
+
+Vale ressaltar que todos os dados são exclusivamente para fins de demonstração, garantindo total privacidade e conformidade ética.
 
 **Integrantes**:
 
