@@ -35,7 +35,7 @@ Vale ressaltar que todos os dados são exclusivamente para fins de demonstraçã
 
 🔍Este projeto tem como foco a **análise exploratória de dados** relacionados à cidade de Paris, França, utilizando informações disponibilizadas pelo [Inside Airbnb](http://insideairbnb.com/get-the-data/). O objetivo principal é extrair percepções e conhecimentos a partir desses dados, explorando aspectos relevantes do mercado de hospedagem na cidade.
 
-💻 O contexto envolve a simulação de uma empresa fictícia chamada **RotaVIP**, especializada em roteiros de viagem personalizados. Neste caso, nós da RotaVIP fomos contratados pela **EuroTrip**, uma empresa de excursões pela Europa, para desenvolver um **roteiro exclusivo** para a cidade de **Paris**. 
+💻 O contexto envolve a simulação da **RotaVIP**, uma empresa fictícia especializada em roteiros de viagem personalizados, preparando-se para uma reunião estratégica com a Airbnb. A proposta visa integrar os serviços de roteiros da **RotaVIP** com as facilidades da **Airbnb**, visando ampliar a base de clientes e proporcionar uma experiência de viagem mais completa e personalizada para usuários de ambas as plataformas.
 
 🗺️ Como analista de Dados da **RotaVIP**, realizamos uma Análise Exploratória de Dados (EDA) dedicada à cidade de Paris, com ênfase na área de hotelaria. A equipe utilizou dados do **Airbnb**, uma plataforma global que conecta anfitriões e viajantes. O Airbnb, conhecido por promover transparência e democratização dos dados, disponibiliza informações valiosas através do portal [Inside Airbnb](http://insideairbnb.com/get-the-data/).
 
