@@ -71,14 +71,13 @@ Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no 
 
 **Acerca do Dataset**
 
-- Durante a análise do conjunto de dados do Airbnb, identificamos uma condensação de informações na coluna '**name**', incluindo elementos como **score** de **avaliação**, **quantidade de quartos**, **camas** e **banheiros**. Optamos por destacar esses elementos e criar novas colunas específicas para cada informação relevante.
+Durante a análise do conjunto de dados do Airbnb, identificamos uma condensação de informações na coluna '**name**', incluindo elementos como **score** de **avaliação**, **quantidade de quartos**, **camas** e **banheiros**. Optamos por destacar esses elementos e criar novas colunas específicas para cada informação relevante.
 
-- Ao explorar a qualidade dos dados, observamos a presença de valores ausentes em várias colunas, sendo a coluna 'neighbourhood_group' a que possui 100% dos valores faltantes. Para garantir a robustez e confiabilidade das análises, aplicamos estratégias como preenchimento de dados ausentes, eliminação de colunas irrelevantes e outras técnicas de imputação, conforme necessário.
+**Limpeza de Dados**
 
-- Decidimos excluir colunas como 'last_review' e 'license', cuja ausência não impacta a continuidade da análise. A coluna 'neighbourhood_group' também foi removida por não apresentar informações úteis.
+Ao explorar a qualidade dos dados, observamos a presença de valores ausentes em várias colunas, sendo a coluna 'neighbourhood_group' a que possui 100% dos valores faltantes. Para garantir a robustez e confiabilidade das análises, aplicamos estratégias como preenchimento de dados ausentes, eliminação de colunas irrelevantes e outras técnicas de imputação, conforme necessário. Decidimos excluir colunas como 'last_review' e 'license', cuja ausência não impacta a continuidade da análise. A coluna 'neighbourhood_group' também foi removida por não apresentar informações úteis.
 
-- A análise também destaca uma variação
-significativa nas médias de preços dentro de cada bairro, refletindo a diversidade de imóveis disponíveis, desde apartamentos pequenos até grandes mansões. Essa variação é crucial para os usuários do Airbnb, permitindo que encontrem acomodações que atendam às suas necessidades e orçamento específicos.
+- A análise também destaca uma variação significativa nas médias de preços dentro de cada bairro, refletindo a diversidade de imóveis disponíveis, desde apartamentos pequenos até grandes mansões. Essa variação é crucial para os usuários do Airbnb, permitindo que encontrem acomodações que atendam às suas necessidades e orçamento específicos.
 
 - **Preço mínimo**: 💶 **€ 10** (equivalente a **R$ 54,30**)
 
@@ -90,7 +89,7 @@ significativa nas médias de preços dentro de cada bairro, refletindo a diversi
 
 Ao investigar possíveis outliers, notamos que a coluna 'price' e 'minimum_nights' poderiam conter valores discrepantes. Após o tratamento adequado desses outliers, realizamos uma análise mais aprofundada dos preços médios por bairro, destacando os mais caros e baratos. Além disso, identificamos o menor e o maior preço por bairro, proporcionando insights valiosos sobre a variação de preços.
 
-**Acerca da EDA **
+**Acerca da EDA**
 
 A análise do tipo de imóvel disponível revelou uma preferência significativa por casas/apartamentos inteiros **67%**, seguidos por quartos privativos 7%. Os quartos de hotel, apesar de representarem uma parcela menor 0.83%, tendem a ser consistentemente os mais caros, indicando uma preferência por acomodações mais exclusivas e personalizadas.
 
