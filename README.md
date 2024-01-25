@@ -67,6 +67,13 @@ Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no 
 - `number_of_reviews_ltm`: Número de avaliações que a propriedade recebeu nos últimos doze meses.
 - `license`: Possível licença ou autorização associada à propriedade.
 
+  #### **Colunas adicionadas:**
+
+- `score`: Notas que a propriedade recebeu
+- `bedroom`: Quantidade de quartos (o valor 0 siginifica que se trata de um Studio)
+- `bed`: Quantidade de Camas (o valor 0 siginifica que se trata de um Studio)
+- `bath`: Quantidade de Banheiros (o valor 0 siginifica que a locação só tem lavabo)
+
 # **Conlcusão**
 
 **Acerca do Dataset**
