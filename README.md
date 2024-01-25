@@ -82,13 +82,11 @@ Durante a análise do conjunto de dados do Airbnb, identificamos uma condensaç�
 
 **Limpeza de Dados**
 
-Ao explorar a qualidade dos dados, observamos a presença de valores ausentes em várias colunas, sendo a coluna 'neighbourhood_group' a que possui 100% dos valores faltantes. Para garantir a robustez e confiabilidade das análises, aplicamos estratégias como preenchimento de dados ausentes, eliminação de colunas irrelevantes e outras técnicas de imputação, conforme necessário. Decidimos excluir colunas como 'last_review' e 'license', cuja ausência não impacta a continuidade da análise. A coluna 'neighbourhood_group' também foi removida por não apresentar informações úteis.
-
-**Acerca dos outliers**
-
-Ao investigar possíveis outliers, notamos que a coluna 'price' e 'minimum_nights' poderiam conter valores discrepantes. Após o tratamento adequado desses outliers, realizamos uma análise mais aprofundada dos preços médios por bairro, destacando os mais caros e baratos. Além disso, identificamos o menor e o maior preço por bairro, proporcionando insights valiosos sobre a variação de preços.
+Ao explorar a qualidade dos dados, observamos a presença de valores ausentes em várias colunas, sendo a coluna 'neighbourhood_group' a que possui 100% dos valores faltantes. Para garantir a robustez e confiabilidade das análises, aplicamos estratégias como preenchimento de dados ausentes, eliminação de colunas irrelevantes e outras técnicas de imputação, conforme necessário. Decidimos excluir colunas como 'last_review' e 'license', cuja ausência não impacta a continuidade da análise. A coluna 'neighbourhood_group' também foi removida por não apresentar informações úteis. Ao investigar possíveis outliers, notamos que a coluna 'price' e 'minimum_nights' poderiam conter valores discrepantes. 
 
 **Acerca da EDA**
+
+Após o tratamento adequado desses outliers, realizamos uma análise mais aprofundada dos preços médios por bairro, destacando os mais caros e baratos. Além disso, identificamos o menor e o maior preço por bairro, proporcionando insights valiosos sobre a variação de preços.
 
 A análise do tipo de imóvel disponível revelou uma preferência significativa por casas/apartamentos inteiros **67%**, seguidos por quartos privativos 7%. Os quartos de hotel, apesar de representarem uma parcela menor 0.83%, tendem a ser consistentemente os mais caros, indicando uma preferência por acomodações mais exclusivas e personalizadas.
 
@@ -100,7 +98,7 @@ A análise também destaca uma variação significativa nas médias de preços d
 
 - **A média de preços em Paris** :💶 **€ 204.91** (cerca de**R$ 1.112,62**)
 
-**Problema de negócio (referente ao contexto que criamos)**
+**Problema de negócio**
 
 Concluímos que a plataforma Airbnb oferece uma ampla diversidade de tipos de imóveis e faixas de preços, desde opções mais acessíveis até acomodações de luxo. Essa variedade é altamente benéfica para a Rota VIP, pois permitirá a criação de roteiros turísticos personalizados, alinhados aos interesses e orçamento específicos de cada cliente.
 
