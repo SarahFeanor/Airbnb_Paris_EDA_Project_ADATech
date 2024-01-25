@@ -100,7 +100,7 @@ A análise também destaca uma variação significativa nas médias de preços d
 
 - **A média de preços em Paris** :💶 **€ 204.91** (cerca de**R$ 1.112,62**)
 
-**Problema de negócio**
+**Problema de negócio (referente ao contexto que criamos)**
 
 Concluímos que a plataforma Airbnb oferece uma ampla diversidade de tipos de imóveis e faixas de preços, desde opções mais acessíveis até acomodações de luxo. Essa variedade é altamente benéfica para a Rota VIP, pois permitirá a criação de roteiros turísticos personalizados, alinhados aos interesses e orçamento específicos de cada cliente.
 
