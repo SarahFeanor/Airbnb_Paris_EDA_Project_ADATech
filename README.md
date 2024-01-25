@@ -69,32 +69,38 @@ Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no 
 
 # **Conlcusão**
 
-  - Durante a análise do conjunto de dados do Airbnb, identificamos uma condensação de informações na coluna '**name**', incluindo elementos como **score** de **avaliação**, **quantidade de quartos**, **camas** e **banheiros**. Optamos por destacar esses elementos e criar novas colunas específicas para cada informação relevante.
+**Acerca do Dataset**
 
-- Ao explorar a qualidade dos dados, observamos a presença de valores ausentes em várias colunas, sendo a coluna 'neighbourhood_group' a que possui 100% dos valores faltantes. Para garantir a robustez e confiabilidade das análises, aplicamos estratégias como preenchimento de dados ausentes, eliminação de colunas irrelevantes e outras técnicas de imputação, conforme necessário. 
+- Durante a análise do conjunto de dados do Airbnb, identificamos uma condensação de informações na coluna '**name**', incluindo elementos como **score** de **avaliação**, **quantidade de quartos**, **camas** e **banheiros**. Optamos por destacar esses elementos e criar novas colunas específicas para cada informação relevante.
+
+- Ao explorar a qualidade dos dados, observamos a presença de valores ausentes em várias colunas, sendo a coluna 'neighbourhood_group' a que possui 100% dos valores faltantes. Para garantir a robustez e confiabilidade das análises, aplicamos estratégias como preenchimento de dados ausentes, eliminação de colunas irrelevantes e outras técnicas de imputação, conforme necessário.
 
 - Decidimos excluir colunas como 'last_review' e 'license', cuja ausência não impacta a continuidade da análise. A coluna 'neighbourhood_group' também foi removida por não apresentar informações úteis.
 
-- A análise também destaca uma variação 
+- A análise também destaca uma variação
 significativa nas médias de preços dentro de cada bairro, refletindo a diversidade de imóveis disponíveis, desde apartamentos pequenos até grandes mansões. Essa variação é crucial para os usuários do Airbnb, permitindo que encontrem acomodações que atendam às suas necessidades e orçamento específicos.
 
-### **Preço mínimo**: 
-- 💶 **€ 10** (equivalente a **R$ 54,30**)
+- **Preço mínimo**: 💶 **€ 10** (equivalente a **R$ 54,30**)
 
-### **Preço máximo**: 
-- 💶 **€ 1.999** (cerca de **R$ 10.854.57**) 
+- **Preço máximo**: 💶 **€ 1.999** (cerca de **R$ 10.854.57**)
 
-### **A média de preços em Paris**
-- 💶 **€ 204.91** (cerca de**R$ 1.112,62**)
+- **A média de preços em Paris** :💶 **€ 204.91** (cerca de**R$ 1.112,62**)
 
-
-
+**Acerca dos outliers**
 
 Ao investigar possíveis outliers, notamos que a coluna 'price' e 'minimum_nights' poderiam conter valores discrepantes. Após o tratamento adequado desses outliers, realizamos uma análise mais aprofundada dos preços médios por bairro, destacando os mais caros e baratos. Além disso, identificamos o menor e o maior preço por bairro, proporcionando insights valiosos sobre a variação de preços.
 
-A análise do tipo de imóvel disponível revelou uma preferência significativa por casas/apartamentos inteiros 67%, seguidos por quartos privativos 7%. Os quartos de hotel, apesar de representarem uma parcela menor 0.83%, tendem a ser consistentemente os mais caros, indicando uma preferência por acomodações mais exclusivas e personalizadas.
+**Acerca da EDA **
 
-Este projeto envolveu a exploração, limpeza e análise de dados do Airbnb, proporcionando insights sobre preços, tipos de imóveis e características dos bairros em Paris. As ações tomadas visaram garantir a integridade e confiabilidade dos dados para análises subsequentes.
+A análise do tipo de imóvel disponível revelou uma preferência significativa por casas/apartamentos inteiros **67%**, seguidos por quartos privativos 7%. Os quartos de hotel, apesar de representarem uma parcela menor 0.83%, tendem a ser consistentemente os mais caros, indicando uma preferência por acomodações mais exclusivas e personalizadas.
+
+**Problema de negócio**
+
+Concluímos que a plataforma Airbnb oferece uma ampla diversidade de tipos de imóveis e faixas de preços, desde opções mais acessíveis até acomodações de luxo. Essa variedade é altamente benéfica para a Rota VIP, pois permitirá a criação de roteiros turísticos personalizados, alinhados aos interesses e orçamento específicos de cada cliente.
+
+Essa abordagem não apenas atende às necessidades variadas dos clientes da Rota VIP, mas também estabelece uma parceria estratégica com o Airbnb. Ao apresentar uma gama diversificada de opções e preços acessíveis, podemos aumentar a visibilidade da Rota VIP, enquanto o Airbnb se beneficia ao incentivar mais pessoas a utilizarem seus serviços.
+
+Ao posicionar o Airbnb como nosso parceiro exclusivo para oferecer comodidade aos clientes, criamos uma sinergia que não apenas fortalece a visibilidade da Rota VIP, mas também proporciona ao Airbnb uma vantagem competitiva ao ser a escolha preferencial para acomodações personalizadas e serviços turísticos. Essa colaboração estratégica pode resultar em benefícios mútuos, promovendo a oferta de experiências turísticas sob medida e incentivando o uso contínuo dos serviços do Airbnb.
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
