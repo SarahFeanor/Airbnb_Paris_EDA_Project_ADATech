@@ -3,7 +3,7 @@
 <sub> 📂 Projeto - Grupo 2 | Turma: 1102 - Programa Vem Ser Tech Dados - ADA | Módulo 4 - Técnicas de Programação I (PY)  </sub> 
 
 
-# **Projeto - Análise Explorátoria dos Dados do Airbnb - Paris 🗼**
+# **Projeto - Análise Exploratória dos Dados do Airbnb - Paris 🗼**
 
 
 <p align="center">
