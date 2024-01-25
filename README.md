@@ -41,7 +41,7 @@ Vale ressaltar que todos os dados são exclusivamente para fins de demonstraçã
 
 ## Dados 
 
-Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no [Inside Airbnb](http://insideairbnb.com/get-the-data/). Os **arquivos** usados aqui tambem podem ser adquiridos neste repositório do Github:
+Os dados que utilizamos foram adquiridos de um arquivo CSV disponibilizado no [Inside Airbnb](http://insideairbnb.com/get-the-data/). Os **arquivos** usados aqui tambem podem ser encontrados neste repositório do Github:
 
 - **Listagem** - Informações resumidas e métricas  (bom para visualizações): [listings.csv](https://github.com/SarahFeanor/Airbnb_Paris_EDA_Project_ADATech/blob/main/listings.csv/)
 
