@@ -43,7 +43,7 @@ Vale ressaltar que todos os dados são exclusivamente para fins de demonstraçã
 
 Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no [Inside Airbnb](http://insideairbnb.com/get-the-data/). Os **arquivos** usados aqui tambem podem ser adquiridos em nosso [repositório]() do Github:
 
-- **Listagem** - Informações resumidas e métricas  (bom para visualizações): [listings.csv](https://)
+- **Listagem** - Informações resumidas e métricas  (bom para visualizações): [listings.csv](https://github.com/SarahFeanor/Airbnb_Paris_EDA_Project_ADATech/blob/main/listings.csv/)
 
 
 ### **Dicionário de Variavéis**
@@ -67,7 +67,7 @@ Os dados que utilizaremos foram adquiridos de um arquivo CSV disponibilizado no 
 - `number_of_reviews_ltm`: Número de avaliações que a propriedade recebeu nos últimos doze meses.
 - `license`: Possível licença ou autorização associada à propriedade.
 
-  #### **Colunas adicionadas:**
+#### **Colunas adicionadas:**
 
 - `score`: Notas que a propriedade recebeu
 - `bedroom`: Quantidade de quartos (o valor 0 siginifica que se trata de um Studio)
@@ -84,14 +84,6 @@ Durante a análise do conjunto de dados do Airbnb, identificamos uma condensaç�
 
 Ao explorar a qualidade dos dados, observamos a presença de valores ausentes em várias colunas, sendo a coluna 'neighbourhood_group' a que possui 100% dos valores faltantes. Para garantir a robustez e confiabilidade das análises, aplicamos estratégias como preenchimento de dados ausentes, eliminação de colunas irrelevantes e outras técnicas de imputação, conforme necessário. Decidimos excluir colunas como 'last_review' e 'license', cuja ausência não impacta a continuidade da análise. A coluna 'neighbourhood_group' também foi removida por não apresentar informações úteis.
 
-A análise também destaca uma variação significativa nas médias de preços dentro de cada bairro, refletindo a diversidade de imóveis disponíveis, desde apartamentos pequenos até grandes mansões. Essa variação é crucial para os usuários do Airbnb, permitindo que encontrem acomodações que atendam às suas necessidades e orçamento específicos.
-
-- **Preço mínimo**: 💶 **€ 10** (equivalente a **R$ 54,30**)
-
-- **Preço máximo**: 💶 **€ 1.999** (cerca de **R$ 10.854.57**)
-
-- **A média de preços em Paris** :💶 **€ 204.91** (cerca de**R$ 1.112,62**)
-
 **Acerca dos outliers**
 
 Ao investigar possíveis outliers, notamos que a coluna 'price' e 'minimum_nights' poderiam conter valores discrepantes. Após o tratamento adequado desses outliers, realizamos uma análise mais aprofundada dos preços médios por bairro, destacando os mais caros e baratos. Além disso, identificamos o menor e o maior preço por bairro, proporcionando insights valiosos sobre a variação de preços.
@@ -99,6 +91,14 @@ Ao investigar possíveis outliers, notamos que a coluna 'price' e 'minimum_night
 **Acerca da EDA**
 
 A análise do tipo de imóvel disponível revelou uma preferência significativa por casas/apartamentos inteiros **67%**, seguidos por quartos privativos 7%. Os quartos de hotel, apesar de representarem uma parcela menor 0.83%, tendem a ser consistentemente os mais caros, indicando uma preferência por acomodações mais exclusivas e personalizadas.
+
+A análise também destaca uma variação significativa nas médias de preços dentro de cada bairro, refletindo a diversidade de imóveis disponíveis, desde apartamentos pequenos até grandes mansões. Essa variação é crucial para os usuários do Airbnb, permitindo que encontrem acomodações que atendam às suas necessidades e orçamento específicos.
+
+- **Preço mínimo**: 💶 **€ 10** (equivalente a **R$ 54,30**)
+
+- **Preço máximo**: 💶 **€ 1.999** (cerca de **R$ 10.854.57**)
+
+- **A média de preços em Paris** :💶 **€ 204.91** (cerca de**R$ 1.112,62**)
 
 **Problema de negócio**
 
