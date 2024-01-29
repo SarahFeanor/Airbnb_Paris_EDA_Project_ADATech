@@ -111,3 +111,6 @@ Ao posicionar o Airbnb como nosso parceiro exclusivo para oferecer comodidade ao
     <img src="https://cdn.discordapp.com/attachments/1063559719291199599/1198977694004682752/cats.jpg?ex=65c0ddfe&is=65ae68fe&hm=7592e55b8862cbda52a303953ee10fdf3f357eb049f96977e08b99ddb85545b7&" alt="capa" width="400" height="300">
   </a>
 </p><p align="center"> <sup> Foto: Mapa dos bairros de Paris - Fonte: Paris CityVision </sup> </p>
+
+
+<sub> 🔗 Visite também >> [Outros PROJETOS do curso da AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
