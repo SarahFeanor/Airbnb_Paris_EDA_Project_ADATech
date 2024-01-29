@@ -5,6 +5,8 @@
 
 # **Projeto - Análise Exploratória dos Dados do Airbnb - Paris 🗼**
 
+<sub> 🔗 Visite também >> [Outros PROJETOS do curso - AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
+
 
 <p align="center">
   <a href="https://github.com/SarahFeanor?tab=repositories">
@@ -113,4 +115,3 @@ Ao posicionar o Airbnb como nosso parceiro exclusivo para oferecer comodidade ao
 </p><p align="center"> <sup> Foto: Mapa dos bairros de Paris - Fonte: Paris CityVision </sup> </p>
 
 
-<sub> 🔗 Visite também >> [Outros PROJETOS do curso da AdaTech](https://github.com/SarahFeanor/Projetos_Curso_AdaTech) </sub>
