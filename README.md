@@ -15,7 +15,6 @@
 </p> <p align="center"> <sup> Foto: Torre Eiffel - Fonte: BesthHqWallpapers </sup> </p>
 
 
-
 ## [Análise Exploratória dos Dados do Airbnb - Paris](https://github.com/SarahFeanor/Airbnb_Paris_EDA_Project_ADATech/blob/main/Airbnb_Paris_EDA_ADATech.ipynb) 
 
 Bem-vindos(as) ao nosso repositório do **4ª projeto** desenvolvido durante o curso '_Vem Ser Tech Dados_' da **ADA Tech**. Este repositório reflete o progresso e aprendizado conquistados ao longo do módulo de Técnica de Programação I (PY). Tem como foco a realização de um **EDA** (Exploratory Data Analysis) com os conhecimentos obtidos (Pandas e Numpy).
