@@ -114,4 +114,5 @@ Ao posicionar o Airbnb como nosso parceiro exclusivo para oferecer comodidade ao
   </a>
 </p><p align="center"> <sup> Foto: Mapa dos bairros de Paris - Fonte: Paris CityVision </sup> </p>
 
+.
 
